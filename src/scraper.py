@@ -19,7 +19,7 @@ more = True
 name_csv = '../output/data.csv'
 
 more_pages = True
-page = 2
+page = 1
 
 columns = ['date', 'grade', 'name', 'station']
 df = pd.DataFrame(columns=columns)
