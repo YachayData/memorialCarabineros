@@ -17,6 +17,8 @@ name_csv = '../output/data.csv'
 more_pages = True
 page = 1
 
+columns = ['date', 'grade', 'name', 'station']
+df = pd.DataFrame(columns=columns)
 
 while more_pages == True:
 	print(page)
@@ -33,8 +35,7 @@ while more_pages == True:
 
 	profiles = soup.find_all("div", attrs={"class": "card-content-index"})
 		       
-	columns = ['date', 'grade', 'name', 'station']
-	df = pd.DataFrame(columns=columns)
+
 
 
 	for profile in profiles:
@@ -56,7 +57,7 @@ while more_pages == True:
 		"station": station}
 		
 		df = pd.concat([df, pd.DataFrame([new_row])], axis=0, ignore_index=True)
-	
+		print(df)
 	if profiles == []:
 		more_pages = False
 	page += 1
