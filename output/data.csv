@@ -1,1 +1,592 @@
 date,grade,name,station
+2018-06-08,Cabo 1ro.,Óscar Galindo Saravia,41a. Com. La Pintana
+2018-02-22,Sargento 2do.,Alex Alberto Rojas Rojas,Depto. O.S.9.
+2018-01-14,Carabinero,Marco Antonio Palma Pallamar,47a. Com. Los Dominicos
+2017-12-26,Cabo 1ro.,Marcelo Benjamín Cortés Negrete,25a. Com. Maipú
+2017-12-16,Cabo 1ro.,Víctor Chavarría Acuña,4a. Com. Chaiten
+2017-11-13,Sargento 1ro.,Job Bernabé Sanhueza Méndez,5a. Com. FF.EE. Concepción
+2017-11-08,Sargento 2do.,José González Parra,1a. Com. Linares
+2017-10-21,Carabinero,José Manuel Albornoz Vega,60a. Com. Metro de Santiago
+2017-10-03,Sargento 1ro.,Alex Rodrigo Leal Cisterna,39a. Com. El Bosque
+2017-03-13,Sargento 2do.,Luis Iván Chziscke Contreras,14a. Com. San Bernardo
+2017-01-25,Sargento 1ro.,Freddy Fernández Garcés,2a. Com. Constituci&oacuten
+2017-01-25,Cabo 1ro.,Mauricio Roca Sepúlveda,2a. Com. Constituci&oacuten
+2017-01-12,Cabo 2do.,Hugo Omar Enrique Vergara Figueroa,5a. Com. Panguipulli
+2017-01-12,Cabo 2do.,Reynner Alexis González Ceballo,5a. Com. Panguipulli
+2016-12-21,Sargento 1ro.,Claudio Alejandro Molina Vásquez,1a. Com. Ancud
+2016-11-13,Sargento 2do.,Yonny Alejandro Novoa Leal,ESUCAR
+2016-11-11,Sargento 2do.,Hans Knopke Briones,1a. Com. La Serena
+2016-11-11,Carabinero,Luis Gonzalo Díaz Manriquez,1a. Com. La Serena
+2016-11-02,Cabo 1ro.,Rodrigo Alfredo Pérez Saldivia,7a. Com. Villarrica
+2016-11-02,Carabinero,Anselmo Onofre Tocol Leimann,7a. Com. Villarrica
+2016-08-30,Sargento 2do.,Heraldo Abraham Cisterna Carrasco,5a. Com. Puerto Montt
+2016-08-24,Cabo 2do.,Ricardo Enrique Meriño Sanhueza,3a. Com. Traiguen
+2016-08-01,Cabo 2do.,Alfredo Alexis Monsalve Sanhueza,20a. Com. Puente Alto
+2015-12-31,Cabo 2do.,Angel Gabriel Cardenas Celedon,47a. Com. Los Dominicos
+2015-11-24,Carabinero,Juan Sebastián Carrillo Carrillo,26a. Com. Pudahuel
+2015-10-03,Cabo 2do.,Juan Ramón Cáceres Cáceres,3a. Com. Rancagua Oriente
+2015-07-30,Cabo 2do.,Felipe Abraham Rosas Rivera,4a. Com. Tocopilla
+2015-06-18,Carabinero,Francisco Ignacio Navarro Marigual,6a. Com. Quellón
+2015-02-25,Suboficial,Rigoberto Candia Pérez,2a. Com. San Pedro de Atacama
+2015-02-25,Cabo 2do.,Alejandro Gálvez Gálvez,51a. Com. Pedro Aguirre Cerda
+2015-02-07,Cabo 2do.,Jonathan Misael Garrido Carril,2a. Com. Temuco
+2015-01-22,Sargento 1ro.,Germán Cid Conejeros,4a. Com. Chacalluta
+2015-01-22,Cabo 1ro.,Victor Godoy Pinto,4a. Com. Chacalluta
+2015-01-01,Cabo 1ro.,Carlos Eugenio Mella Candia,2a. Com. Los Lagos
+2014-11-15,Cabo 1ro.,Alex Gutiérrez Vásquez,3a. Com. Penco
+2014-10-16,Sargento 1ro.,Camilo Robert Jiménez Carvallo,Depto. O.S.7.
+2014-10-14,Cabo 1ro.,Fabián Antonio Ibáñez Gómez,1a. Com. Santiago Central
+2014-09-16,Sargento 1ro.,Cristián Mauricio Loyola Vilchez,Sección Escolta Policial
+2014-09-07,Cabo 2do.,Pablo Enrique Cortés Guerrero,24a. Com. Melipilla
+2014-06-07,Carabinero,Gustavo Leonardo Sanhueza Astete,15a. Com. Buin
+2014-05-23,Cabo 2do.,José Barría Pérez,45a. Com. Cerro Navia
+2014-04-04,Subteniente,Ariel Goldberg Woldarsky,18a. Com. Ñuñoa
+2013-11-24,Cabo 1ro.,Felipe Alejandro Parga Cáceres,2a. Com. Pozo Almonte
+2013-11-23,Cabo 2do.,Francisco Javier Céspedes Pérez,14a. Com. San Bernardo
+2013-08-01,Subteniente,Daniel Silva Rodríguez,46a. Com. Macúl
+2013-06-24,Sargento 2do.,Claudio Leandro Vargas León,Cenco. Prefectura. Arica
+2013-03-03,Sargento 2do.,Luis Hernán Romero Calfio,4a. Com. Cochrane
+2012-12-25,Sargento 1ro.,Rodolfo Enrique Palma Marchant,5a. Com. Pitrufquen
+2012-09-12,Cabo 2do.,Cristián Martínez Badilla,49a. Com. Quilicura
+2012-07-09,Sargento 2do.,Sebastián Honorio González González,8a. Com. Colina
+2012-07-07,Cabo 1ro.,Florencio Darío Arriagada Carrasco ,5a. Com. Pitrufquen
+2012-04-05,Carabinero,Luis Eduardo Vera Sepúlveda,1a. Com. Chañaral
+2012-04-03,Carabinero,Miguel Faúndez Morales,50a. Com. San Joaquin
+2012-04-02,Sargento 2do.,Hugo Albornoz Albornoz,P.A.E. Araucanía Pref. Cautín.
+2011-08-07,Cabo 2do.,Juan Carlos Ulloa Saravia,2a. Com. Copiapó
+2011-05-19,Subteniente,Luis Méndez Moraga,ESCAR.
+2011-05-19,Cabo 1ro.,Enrique Isidoro Fernández Parra,4a. Com. Santiago Central.
+2011-05-02,Cabo 2do.,Paulina Aurora Gallardo Reyes,14a. Com. San Bernardo
+2011-02-03,Sargento 2do.,Germán Ulloa Valdivia,3a. Com. Santiago Central
+2011-02-01,Aspirante,Sebastián Andrés Pinuer Barría,Escuela de Carabineros
+2010-06-17,Carabinero,Ronny Esteban Montecinos Araya,2a. Com. Constitución
+2009-12-06,Carabinero,Ariel Hardy Herrera Naranjo,1a. Com. Viña Del Mar
+2009-11-28,Carabinero,Dagoberto Hernán Gavilán Leal,Gpo. Formación Temuco
+2009-11-28,Carabinero,Gonzalo Andrés Vergara Vega,Gpo. Formación Temuco
+2009-11-28,Cabo 2do.,Claudio Hernán Godoy Benavente,Subcom. FF.EE. Pref. Cautín
+2009-09-07,Subteniente,Felipe Arturo Cáceres Canales,Jefatura de Zona Melropolilana
+2009-08-23,Sargento 1ro.,Godofredo Arturo Jara Carrasco,1a. Com. Los Ángeles
+2009-07-04,Cabo 2do.,Domingo Leonidas Rojas Candia,1a. Com. Los Ángeles
+2009-04-21,Cabo 1ro.,Javier Andrés Delgado Carrasco,4a. Com. Río Bueno
+2009-01-18,Carabinero,Cristopher Alejandro Valenzuela Romero,36a. Com. La Florida
+2009-01-11,Sargento 2do.,Jaime Martín Corrales Sánchez,2a. Com. Copiapó
+2008-05-29,General Director,José Bernales Ramírez,Dirección General
+2008-05-29,Tte. Coronel,Ricardo Orozco Ugalde,Secretaría General
+2008-05-29,Tte. Coronel,Óscar Tapia Bacigalupo,Sección Escolta Policial
+2008-05-29,Capitán,Mauricio Fuenzalida Ayala,Sección Escolta Policial
+2008-04-05,Carabinero,Miguel Alejandro Ortiz Salazar,Tenencia Carretera Biobío
+2008-02-27,Teniente,Sebastián Eduardo Rodríguez Torres,Prefectura Aeropollclal
+2008-02-27,Capitán,Luciano Albino Castro Adasme,Prefectura Aeropollclal
+2008-02-18,Cabo 1ro.,Carlos Cuevas Golmo,49a. Com. Quilicura
+2008-02-13,Cabo 2do.,Job Burgos Burgos,49a. Com. Quilicura
+2007-12-25,Sargento 2do.,Claudio Alejandro Muñoz Muñoz,3a. Com. Padre Las Casas
+2007-12-03,Cabo 2do.,Alejandro Eduardo Riveros Arriagada,3a. Com. Cañete.
+2007-10-18,Sargento 2do.,Luis Moyano Farías,1a. Com. Santigo Central
+2007-09-12,Cabo 1ro.,Cristián Vera Contreras,Subcom. Pudahuel Sur
+2007-09-12,Cabo 1ro.,Egar Saúl Arrepol Torres,4a. Com. Tránsito
+2007-05-19,Cabo 1ro.,Jorge Abarca Barrios,14a. Com. San Bernardo
+2007-01-28,Coronel,Ricardo Arrué Montenegro,2a. Com. Chillan
+2006-09-11,Cabo 2do.,Alex Mauricio Pizarro Valenzuela,20a. Com. Puente Alto
+2006-07-23,Carabinero,Maferrcial Renato Gutiérrez Flores,Tenencia Carretera Curicó
+2006-07-17,Cabo 2do.,Antonio Moises Llancafil Ferreira,1a. Com. Curicó
+2006-06-28,Cabo 1ro.,Eliseo Renato Sagredo Rodríguez,G.O.P.E.
+2006-06-26,Sargento 2do.,Carlos Alberto Bravo Sandoval,ESCAR
+2006-06-18,Carabinero,José Martín Gálvez Roldan,24a. Com. Melipilla
+2006-03-16,Sargento 2do.,José Reyes Muñoz,Tenencia Carretera Curicó
+2005-11-16,Carabinero,Victor Hugo Peñaloza Del Pozo,31a. Com. San Ramón
+2005-08-13,Subteniente,Carlos González Zúñiga,36a. Com. La Florida
+2005-06-26,Carabinero,Victor Manuel Hernández Fuentealba,26a. Com. Pudahuel
+2005-05-13,Suboficial,Guillermo Ortiz Cruz,Tenencia Dalcahue
+2005-04-17,Suboficial,Juan Farias Santelices,2a. Com. Talcahuano
+2005-02-26,Carabinero,Alberto Eleodoro Carcamo Carrasco,Tenencia Subtte. Ruben Mogollones
+2005-02-01,Carabinero,Rodrigo Esteban Coronilla Barahona,3a. Com. Antofagasta
+2004-12-01,Cabo 1ro.,Francisco Waldemar González Candia,Subcom. Motorizada
+2004-11-02,Carabinero,Manuel Alejandro Cortés Cisternas,Tenencia Carretera Baquedano
+2004-10-20,Carabinero,Jorge Armando Rebolledo Rebolledo,2a. Com. Coronel
+2004-09-12,Sargento 1do.,Edison Hernández Oñate,Retén Caquena
+2004-05-20,Sargento 2do.,Jorge Raúl Contreras Mundaca,Gpo. Escolta Presidencial
+2004-04-25,Carabinero,Claudio Eleazar Calderon Duarte,Subcom. Concón
+2004-03-24,Carabinero,Cristián Mauricio Ortiz Valdebenito,10a. Com. La Cisterna
+2004-03-13,Carabinero,Juan Pablo Sandoval Poblete,Retén Puerto Gudal
+2003-11-30,Carabinero,Ramón Marcelo Vásquez Gutiérrez,Retén Cucumen
+2003-11-26,Carabinero,Hernán Óscar Rodríguez Soto,20a. Com. Puente Alto
+2003-11-26,Carabinero,Patricio Bladimir Vivanco Chamorro,Retén Los Laureles
+2003-09-27,Cabo 2do.,Luis Alfonso Rojas Molina,Subcom. Requinoa
+2003-08-14,Cabo 2do.,Nelson Mauricio Martínez Martínez ,7ma. Com. Villarica
+2003-07-30,Cabo 2do.,Paula Alejandra Díaz Araneda,Tenencia Carret Gultro
+2003-06-21,Carabinero,Luis Alberto Monroy Tapia,6a. Com. San Vicente
+2003-05-30,Cabo 2do.,Carlos Bernardo Garcés Estay ,4a. Com. Tránsito Concep.
+2003-03-21,Carabinero,Marcelo Iván Mella Sepúlveda ,2a. Com. Antofagasta
+2002-12-21,Cabo 1ro.,Miguel Segundo Troncoso Silva,40a. Com. FF.EE
+2002-11-20,Carabinero,Marcelo Castillo Fernández,Tenencia Mejillones
+2002-10-10,Carabinero,Andrea Alejandra León Alarcón,ESFOPOLCAR PM.
+2002-07-04,Cabo 1ro.,Manuel Orlando Hernández Valladares,Retén Achibueno
+2002-06-15,Cabo 2do.,Nelson Pedro Vargas Arellano,42a. Com. R.P.
+2002-05-19,Carabinero,Johana Andrea Espinoza Ramírez,1a. Com. San Antonio
+2002-05-10,Carabinero,José Patricio López Vicencio,2a. Com. Quilpue
+2002-04-16,Cabo 1ro.,Miguel Enrique Yáñez Aedo,Gpo. Eescolta Presidencial
+2002-04-12,Cabo 2do.,Mario Ernesto Carrasco Pérez,10a. Com. La Cisterna
+2002-02-09,Carabinero,Heriberto Javier Morales Villarroel,Tcia. Carreteras Colchahua
+2002-01-16,Sargento 1ro.,Juan Francisco Hernandez Hernandez,7a. Com. FF.EE. Valparaíso
+2001-12-24,Carabinero,Carlos Enrique Garcias Medina,2a. Com. Santiago
+2001-12-02,Cabo 1ro.,Rafael Antonio Barrios Ramírez,GRUFOPOLCAR Concepción
+2001-11-07,Carabinero,Luis Omar Molina Zenteno,11a. Com. Lo Espejo
+2001-10-22,Carabinero,Rodrigo Andrés Flores González,4a. Com. Rengo
+2001-10-10,Capitán,Patricio Peñaloza González,II Zona Antofagasta. Sección Aeropolicial
+2001-10-10,Sargento 2do.,Arturo Hernán Farias Botarro,SubCom. I.A.T. Antofagasta
+2001-10-10,Capitán,Julio Alejandro German Ramírez Cáceres,3a. Com. Parral
+2001-10-10,Capitán,Patricio Guillermo Arancibia Hohmann ,"Zona Antofagasta, Sección Aeropolicial"
+2001-10-10,Sargento 2do.,Pedro Segundo Saez Aguilera ,Subcom. I.A.T. Antofagasta
+2001-10-10,Carabinero,Nancy del Carmen Núñez Osorio,Subcom. I.A.T. Antofagasta
+2001-10-10,Carabinero,Marcelo Augusto Rivera Duran ,Subcom. I.A.T. Antofagasta
+2001-09-18,Cabo 1ro.,Humitel Enrique Guzmán Guzmán,Gpo. Guardia de Palacio
+2001-07-31,Cabo 1ro.,Luis Alejandro Coloma Moraga,1a. Com. Concepción
+2001-07-02,Cabo 1ro.,Juan Guillermo López Valencia,Subcom. Los Libertadores
+2001-04-16,Cabo 1ro.,Miguel Yáñez Aedo,Gpo. Escolta Presidencial
+2001-03-29,Carabinero,Íngrid Patricia Carreño Urrejola,32a. Com. Tránsito
+2001-03-24,Cabo 1ro.,Hernán Mauricio Palma Rodríguez,5a. Com. Pitrufquen
+2001-02-02,Carabinero,José Antonio bustos Hernández,2a. Com. Constitución
+2001-01-01,Cabo 2do.,Germán Espinoza Elgueta,1a. Com. Santiago
+2000-10-01,Carabinero,Álvaro Rafael Aedo Palma,37a. Com. Vitacura
+2000-09-30,Carabinero,Héctor Marcelo Cartes Espinoza,3a. Com. Santiago
+2000-09-13,Cabo 2do.,Selim Victoriano Vera Aguayo,5a. Com. Conchalí
+2000-08-21,Cabo 1ro.,Jorge Antonio Ferrari Fierro,21a. Com. Estación Central
+2000-08-05,Capitán,Marcos Antonio Rieutord Miquel,2a. Com. Antofagasta
+2000-07-21,Carabinero,Sergio Gabriel Troncoso Muñoz,2a. Com. San Felipe
+2000-07-21,Cabo 1ro.,Carlos Anselmo Sáez Ríos,Tcia. Catemu
+2000-07-21,Carabinero,Milton Javier Flores Recabal,Subcom. Llay-Llay
+2000-07-07,Carabinero,Freddy Rodrigo Carrasco Navarrete,50a. Com. San Joaquin
+2000-06-29,Carabinero,Héctor Raúl Menares Provoste,Retén Copiulemu
+2000-05-31,Carabinero,Paola Andrea Villalón López,2a. Com. San Felipe
+2000-05-17,Cabo 1ro.,Rodolfo Patricio Flores Godoy,3a. Com. Bulnes
+2000-03-03,Cabo 1ro.,José Daniel Farias Berrios,32a. Com. Tránsito
+1999-08-04,Sargento 1ro.,Ernesto Venegas Cuevas,1a. Com. Arauco
+1999-05-14,Cabo 1ro.,Gilberto Hernán Basaez Gómez,2a. Com. Santa Cruz
+1999-02-22,Cabo 1ro.,Marcelo Reiner Saavedra Jerez,1a. Com. Viña Del Mar
+1999-02-20,Carabinero,Daniel Marcelo Garrido Moraga,1a. Com. Santiago
+1999-01-09,Carabinero,José Ivan Rojas Herrera,9a. Com. Independencia
+1998-12-27,Sargento 2do.,Julio Francisco Moran Alcaino,2a. Com. Graneros
+1998-11-11,Cabo 1ro.,Pedro Antonio San Juan Monardez,2a. Com. Coquimbo
+1998-07-24,Subteniente,Javier Andres Olsen González,10a. Com. La Cisterna
+1998-07-10,Cabo 2do.,Pedro Pablo Pérez Aravena,8a. Com. Colina
+1998-05-10,Carabinero,Erwin Rodrigo Cifuentes Hernández,Tcia. Carreteras San Felipe
+1998-04-08,Cabo 2do.,Rodolfo Antonio Ibáñez Bizama,13a. Com. La Granja
+1998-03-26,Carabinero,Quintín David Cárcamo Leiva,Escuela de Equitación
+1998-03-04,Cabo 2do.,Juan Oscar de la Rosa Sepúlveda Zúñiga,1a. Com. Tome
+1998-01-08,Cabo 2do.,Luis Alberto Arroyo Figueroa,42a. Com. R.P.
+1998-01-08,Cabo 2do.,Vianel Antonio Latin Carrasco,Dirección Inteligencia Policial de Carabineros
+1997-12-22,Cabo 2do.,Victor Aldo Tapia Celedon,Subcom. Playa Blanca
+1997-11-13,Carabinero,Carlos Roberto Riquelme Cea,1a. Com. San Fernando
+1997-11-10,Cabo 2do.,Sergio Benito Poblete Yevenes,17a. Com. Las Condes
+1997-07-24,Cabo 1ro.,Jorge Alex Troncoso Troncoso,3a. Com. Arica
+1997-06-04,Cabo 1ro.,Héctor Toribio Zapata Cuevas,23a. Com. Talagante
+1997-05-06,Mayor,Fernando Antonio Escudero Bouza,26a. Com. Pudahuel
+1997-05-05,Cabo 1ro.,Marcelo Federico Eastman Labra,26a. Com. Pudahuel
+1997-01-28,Teniente,Rodrigo Antonio Mardones Concha,Dirección de Drogas y Prevención Delictual
+1997-01-04,Teniente,Juan Luis Poza Reyes,8a. Com. Colina
+1996-10-21,Carabinero,Joaquin Andres Araneda Gomez,40a. Com. FE. EE.
+1996-10-07,Cabo 2do.,Miguel Angel Imigo Paillan,4a. Esc. Logistico y Personal
+1996-10-02,Coronel,Hernan Sergio Barriga Guzman ,Depto. Dotaciones y Comisiones Transitorias.
+1996-10-01,Cabo 1ro.,Manuel Moises Suarez Rojas,4a. Com. Rengo
+1996-08-21,Cabo 1ro.,Jose Roberto Ibarra Araya,40a. Com. Ff. Ee
+1996-07-04,Carabinero,Ricardo Hernan Benavente Quintriqueo,30a. Com. R.P.
+1996-06-15,Capitán,María Eugenia Delgado,Pref. Talca
+1996-04-22,Carabinero,Juan Mauricio Vasquez Reyes,18a. Com. Ñuñoa
+1996-03-03,Carabinero,Angelo Alberto Riquelme Riquelme,46a. Comisaria Macul
+1996-02-08,Cabo 1ro.,Juan Carlos Silva Toro,5a. Com. Viña Del Mar
+1996-01-14,Carabinero,Christian Ulises Inostroza Jimenez,2a. Com. Santiago
+1996-01-09,Cabo 1ro.,Omar Antonio Castro Yévenes,Tenencia Carretera Talca
+1996-01-06,Cabo 2do.,Patricio Domingo Gutiérrez Medina,3a. Com. Parral
+1995-12-25,Cabo 2do.,Erwin Eduardo Castro Pino,3a. Com. Santiago
+1995-12-17,Sargento 1ro.,Héctor Antonio Norambuena Conejeros,3a. Com. Parral
+1995-11-15,Cabo 2do.,Anselmo Enrique Tapia Silva,2a. Com. Quilpué
+1995-11-14,Subteniente,Pablo Alfonso Loyola Kuhn,4a. Com. Cauquenes 
+1995-08-13,Cabo 1ro.,Eliecer Mateo Medina Sandoval,2a. Com. Puerto Natales
+1995-08-09,Suboficial Mayor,José Ricardo Fernández Angulo,3a. Com. Osorno
+1995-07-31,Carabinero,Pedro Ismael Matamala Recabarren,1a. Com. Santiago
+1995-07-27,Carabinero,José Enrique Vega Guiñez,1a. Com. Los Ángeles
+1995-07-08,Cabo 2do.,Patricio Isaac Avendaño Correa,7a. Com. Renca
+1995-06-22,Carabinero,Guillermo Alexis Campos Muñoz,47a. Com. Los Dominicos
+1995-06-09,Carabinero,Marco Antonio Guzmán Vallejos,26a. Com. Pudahuel
+1995-05-23,Sargento 2do.,Victor Hugo Valenzuela Flores,Depto. O.S.7. Sec. Valparaíso
+1995-04-08,Teniente,Ricardo Alejandro Salinas Rodríguez,4a. Com. Quillota
+1995-02-10,Carabinero,Alejandro Mauricio Nuñez González,SEBV
+1994-11-02,Cabo 1ro.,José Santos Saavedra Rivera,1a. Com. Curicó
+1994-10-29,Carabinero,Gustavo Adolfo Berrueta Vásquez,Subcom. Rocas de Santo Domingo
+1994-10-24,Cabo 2do.,Carlos Alfredo Cordova Sandoval,Pref. San Antonio. PM.
+1994-10-18,Carabinero,Sandro Ernesto Gutiérrez Torres,8a. Com. Colina
+1994-09-10,Cabo 2do.,Wildo Julio Soto Morales,2a. Com. Quilpue
+1994-09-07,Carabinero,Sergio Andrés Opazo Opazo,4a. Com. Quillota
+1994-07-31,Cabo 2do.,Luis Eugenio López Cifuentes,4a. Com. Valparaíso
+1994-07-05,Carabinero,Paulo Sergio Araos Yáñez,9a. Com. Independencia
+1994-04-30,Carabinero,Óscar Nibaldo González Salazar,1a. Com. Linares
+1994-03-14,Carabinero,Luis Manuel Nahuelhuen Ruiz,Pref. Valdivia. PM.
+1994-03-01,Carabinero,Alfredo Hernán Muñoz Nail,37a. Com. Vitacura
+1994-01-21,Mayor (S),Roberto Hafón Loo,Pref. Loa
+1993-12-29,Carabinero,Juan Pablo Arce Morales,Tenencia Lampa
+1993-12-25,Cabo 2do.,Juan Carlos René Padilla Álvarez,4a. Com. Hualpencillo
+1993-12-02,Cabo 2do.,Hernán Enrique Araneda Aro,G.O.P.E. O.S.6. - P.A.E. Biobío
+1993-10-27,Cabo 1ro.,Nelson Triviño Garcia,5a. Com. Puerto Montt
+1993-10-27,Sargento 1ro.,Juan Héctor Zapata Melo,5a. Com. Puerto Montt
+1993-10-11,Carabinero,Luis Marcelo Álvarez Saavedra,7a. Com. Renca
+1993-09-28,Teniente,Raúl Antonio Zarate González,1a. Com. Punta Arenas
+1993-09-28,Teniente ,Andrés Muñoz Henríquez ,1a. Com. Punta Arenas
+1993-09-28,Carabinero,Mario Del Transito Leal Sanhueza,Tenencia Yendegaia (F).
+1993-08-26,Carabinero,Juan Carlos Veloso Garrido,25a. Com. Maipú.
+1993-07-05,Cabo 2do.,Juan Ramón Morales Gajardo,36a. Com. La Florida
+1993-06-02,Cabo 1ro.,Héctor Alejandro Morales Herrera,1a. Com. Concepción
+1993-05-23,Carabinero,Emanuel Jesús Hernández Vega,Prefectura Aeropolicial O.S.4. PM.
+1993-05-22,Cabo 1ro.,Carlos Rene Campora Retamal,28a. Com. FF.EE.
+1993-05-21,Cabo 1ro.,José Demetrio Burgos Valenzuela,28a. Com. FF.EE.
+1993-05-05,Carabinero,Juan Roberto Aravena Carrera,39a. Com. Tránsito El Bosque
+1993-05-01,Sargento 1ro.,Jorge David Rubio González,Sec. Recreacional B.1. 
+1993-04-17,Cabo 1ro.,Ricardo Gonzalo Ardiles Troncoso,Tenencia Carretera Curicó
+1993-03-02,Carabinero,Luis Alberto Marin Garcia,20a. Com. Puente Alto
+1993-02-20,Sargento 2do.,Juan Luis Cornejo Pizarro,Orfeón Nacional Decar
+1993-02-10,Carabinero,Óscar Laurencio Adasme Henriquez,Dirección de Bienestar. PM.
+1993-02-03,Cabo 1ro.,Reinaldo Inostroza Ojeda,28a. Com. FF.EE.
+1993-01-14,Cabo 2do.,Miguel German Salazar Rodríguez,Tenencia Tirua
+1992-12-02,Cabo 2do.,Alexis Rolando López Somarriva,21a. Com. Estación Central
+1992-11-25,Teniente ,Marco Alfonso Inostroza Vásquez ,Prefectura Aeropolicial 
+1992-11-25,Mayor ,Orlando Aníbal Carreño Nachar ,Prefectura Aeropolicial 
+1992-10-25,Cabo 2do.,Patricio Domingo Chávez Soto,17a. Com. Las Condes
+1992-09-05,Cabo 2do.,Carlos David Pérez Molina,18a. Com. Ñuñoa
+1992-08-19,Cabo 2do.,Juan Manuel Poveda Matamala,1a. Com. Valdivia
+1992-08-07,Cabo 1ro.,Jaime Torneria Fuentes,30a. Com. R.P.
+1992-07-24,Carabinero,Juan David Nuñez Sepúlveda,1a. Com. Ñuñoa
+1992-06-05,Sargento 2do.,Guillermo Orlando Saez Villarreal,3a. Com. Los Andes
+1992-05-21,Carabinero,Rodolfo Rosendo Orellana Baeza,13a. Com. La Granja
+1992-05-15,Suboficial,Cornelio Catalan Sandoval,1a. Com. San Carlos
+1992-04-27,Carabinero,Robertino Del Carmen Barrera Bustamante,5a. Com. Puerto Montt
+1992-02-15,Cabo 1ro.,Isaías Daniel Baez Leal,17a. Com. Las Condes
+1992-01-11,Cabo 1ro.,Juan Carlos Palominos Aguilera,Pref. Cautin. PM.
+1992-01-09,Cabo 1ro.,Alejandro Tomas Seydewitz Barria,26a. Com. Pudahuel
+1992-01-05,Carabinero,Javier Alexis Maureira Jerez,Subcom. Chuquicamata
+1991-11-30,Carabinero,David Patricio Venegas Hidalgo,5a. Com. Conchalí
+1991-11-21,Sargento 2do.,Héctor Segundo Jara Henriquez,42a. Com. R.P.
+1991-11-21,Carabinero,David Edison Mayor Briones,42a. Com. R.P.
+1991-11-10,Sargento 2do.,Ignacio Segundo Delgado Vásquez,28a. Com. FF.EE.
+1991-11-04,Sargento 2do.,Sergio Placido Luque Calle,Pref. Coquimbo. PM.
+1991-09-30,Carabinero,Jaime Edgardo Pantoja Arias,36a. Com. La Florida
+1991-09-24,Cabo 1ro.,Gonzalo Segundo Labra Gómez,Tenencia Carretera Talca
+1991-09-10,Carabinero,Victor Hugo Cantillana Alarcon,3a. Com. Antofagasta
+1991-09-03,Carabinero,Roberto Carlos Rojas Maureira,39a. Com. Tránsito Motorizada
+1991-09-02,Teniente ,Eduardo Alberto Patricio Rodríguez Penna ,2a. Comisaría Pozo Almonte 
+1991-08-08,Cabo 2do.,Miguel Tolentino Zapata Matamala,32a. Com. Tránsito
+1991-07-24,Cabo 2do.,José Blas Carreño Fuentes,40a. Com. FF.EE.
+1991-07-19,Sargento 2do.,Manuel Aurelio Cares Alfaro,2a. Com. Santiago
+1991-07-17,Cabo 1ro.,Hernán Saavedra Oses,2a. Com. Pozo Almonte
+1991-04-04,Cabo 2do.,Agustín Adolfo Medel Barra,7a. Com. Villarrica
+1991-03-27,Capitán ,Fermín Roberto Guiñez Naudón ,42a. Com. Radiopatrullas
+1991-02-28,Carabinero,Osvaldo Francisco Reyes Reyes,7a. Com. Renca
+1991-01-24,Carabinero,Manuel Humberto Miranda Barrera,5a. Com. Conchalí
+1991-01-22,Cabo 2do.,Waldo David Osorio Reyes,4a. Com. Tránsito Concep.
+1990-12-29,Cabo 2do.,Juan José Llamin Llanquileo,19a. Com. Providencia
+1990-11-25,Teniente ,Luis Enrique Ramirez Vivanco ,1a. Com. Linares
+1990-09-20,Cabo 2do.,Sergio Hernán Ortega Galaz ,29a. Com. FF.EE.
+1990-08-10,Carabinero,Mario Gastón Pacheco Lagos,36a. Com. La Florida
+1990-08-10,Carabinero,Patricio Hugo Novoa Inostroza,36a. Com. La Florida
+1990-08-09,Cabo 2do.,Jorge Luis Fernández Matus,5a. Com. Panguipulli
+1990-08-04,Carabinero,Juan Francisco Salgado Riquelme,5a. Com. Yumbel
+1990-07-01,Carabinero,Heraldo Hernán Baeza González ,1a. Com. Concepción
+1990-06-20,Tte. Crl. (S) ,Mario Osvaldo Romero Ramos ,Hospital de Carabineros
+1990-06-04,Teniente ,Fernando Ricardo Toledo Pérez ,Subdir. de Actividades Policiales Especiales
+1990-05-19,Carabinero,Freddy Eduardo Higueras Pizarro,1a. Com. Calama
+1990-05-17,Cabo 2do.,Ricardo Iván Ojeda Romani,1a. Com. Angol
+1990-05-16,Carabinero,Luis Alberto Fuentes Bastias,15a. Com. La Granja
+1990-04-29,Carabinero,Wilson Charles Araya Castillo,1a. Com. Concepción
+1990-03-25,Cabo 2do.,Miguel Aberlardo Ortega Plaza,28a. Com. FF.EE.
+1990-03-17,Carabinero,John Pablo Lagos Martínez,3a. Com. Pader Las Casas
+1990-02-08,Carabinero,Jaime Arturo González Calquín,1a. Com. La Granja
+1990-01-31,Sargento 2do.,José Nicomedes Sepúlveda Ibarra,3a. Com Parral
+1990-01-28,Carabinero,Victor Omar Villar Villar,5a. Com. Casa Blanca
+1990-01-10,Teniente ,German Ricardo Fuentes Meza ,"Prefectura Aeropolicial, Sección Aviones"
+1989-12-14,Carabinero,Patricio Antonio Castillo Lara,15a Com. La Granja
+1989-11-28,Cabo 1ro.,David Fernando Julio Castillo,Ceicar Coquimbo.
+1989-10-29,Cabo 2do.,Rudi Esteban Keller Jara,1a. Com. Calama
+1989-09-29,Cabo 2do.,Héctor Pincheira Armijo,42a. Com. R.P.
+1989-09-17,Sargento 2do.,Juan Luis Mieres Cea,2a. Com. Collipulli
+1989-09-15,Capitán ,Augusto Dante González Quiroga ,1a. Comisaría Linares 
+1989-08-19,Cabo 1ro.,Luis Fernando Silva Barraza,Pref. Ñuble PM
+1989-08-13,Teniente (S) ,Juan Ignacio Berger Venegas ,Prefectura Valdivia
+1989-07-21,Cabo 2do.,Jaime Dionesimo Parra Aguayo,6a. Com. Recoleta
+1989-07-21,Carabinero,Ramón Adolfo Aalas Sanhueza,6a. Com. Recoleta
+1989-07-06,Cabo 1ro.,Carlos Jesús Lamoza Arce,Dpto. Drogas O.S.7 PM
+1989-05-20,Carabinero,Pedro Enrique Carmona Castro,2a. Com. Putre
+1989-05-18,Cabo 2do.,Julio Edmundo Pavez Ortiz,15a. Com. La Granja
+1989-05-14,Carabinero,Jorge Washington Rivera Fabres,24a. Com. Melipilla
+1989-03-22,Carabinero,Luis Gastón Arias Jofre,2a. Com.  Collipulli
+1989-02-27,Cabo 2do.,Oscar Hernán Paredes Lara,1a. Com. Angol
+1989-02-08,Teniente ,Jose Luis Pizzoleo Canales ,7a. Com. Renca
+1989-02-08,Cabo 2do.,Leonardo Antonio Marillanca Garate,7a. Com. Renca
+1989-01-31,Cabo 1ro.,Abraham Segundo Faunes Canales,1a. Com. Curico
+1989-01-08,Cabo 1ro.,Ricardo Félix Uribe Morales,Dirección de Intendencia PM.
+1988-11-15,Carabinero,Marco Antonio Mur Silva,1a. Com. La Ligua
+1988-10-25,Carabinero,Sergio Antonio Cid Conejeros,17a. Com. Las Condes
+1988-10-21,Cabo 2do.,Juvenal Vargas Sepúlveda,3a. Com Teno
+1988-10-12,Cabo 1ro.,José Idelmar Barría Oyarzo,7a. Com. Renca
+1988-06-20,Carabinero,Marco Antonio Peña Muñoz,14a. Com. San Bernardo
+1988-05-20,Sargento 2do.,Carlos Arturo González Valenzuela,CEICAR
+1988-05-20,Cabo 2do.,Jaime Orlando Sandoval Mendoza,26a. Com lo Prado
+1988-04-29,Sargento 2do.,Juan de Dios Hormazábal Núñez,30a. Com. R.P.
+1988-04-29,Carabinero,Guillermo Arturo Morales Herrera,2a. Com. Constitución
+1988-04-12,Carabinero,Samuel Esteban López Contreras,7a. Com. Renca
+1988-04-02,Cabo 1ro.,Alfredo Ernesto Rivera Rojas,20a. Com. Puente Alto
+1988-02-09,Cabo 1ro.,Jorge Leonardo Navarrete Gallardo,SECODE
+1988-01-29,Sargento 2do.,Roberto Osvaldo Basoalto Carreño,4a. Com Talca
+1988-01-26,Mayor ,Julio Eladio Benimeli Ruz ,Subdir. de Actividades Policiales Especiales
+1988-01-01,Cabo 2do.,Jorge Andrés Carrasco Martínez,26a. Com Lo Prado
+1987-12-14,Carabinero,Mauricio David Quezada Cornejo,2a. Com. Santa Cruz
+1987-11-12,Capitán,Matías Bernardo Muñoz Olea,Prefectura Aeropolicial
+1987-11-12,Capitán,Patricio Jaime Alfaro Ramírez ,Prefectura Aeropolicial
+1987-11-12,Capitán,Alejandro Luis Mackenzie Miranda ,Prefectura Aeropolicial
+1987-09-11,Sargento 1ro.,Mario Martínez Vargas,30a. Com. R.P.
+1987-09-11,Cabo 2do.,Ramón Ignacio Bahamonde Elgueta,30a. Com. R.P.
+1987-07-28,Sargento 2do.,Leopoldo del Carmen Toloza Sepúlveda,C.N.I.
+1987-07-06,Carabinero,Ernesto Alfonso Díaz Botarro,10a. Com. La Cisterna
+1987-06-26,Carabinero Alumno,Luis Rumildo Valderrama Vallejos,Grupo POLCAR Ancúd
+1987-06-18,Subteniente, René Marcial Hernán Hernández Pinilla,1a. Com. La Cisterna
+1987-04-01,Cabo 2do.,Juan Orlando Rain Jara,2a. Com. Chillán
+1987-03-30,Carabinero,Édison Mauricio Cifuentes Riquelme,31a. Com. Carretera
+1987-03-24,Carabinero,Manuel José Gallardo Marchant,ESUCAR
+1987-03-06,Subteniente,Eduardo Harold Tamayo Medina ,1a. Com. Concepción
+1987-01-31,Teniente,Jean Pierre Edmond Francoi Laude Barcoj,"Prefectura Llanquihue, Plana Mayor"
+1987-01-31,Capitán,Luis Antonio Floridor Malagueño Cifuentes ,Subcomisaría Aeropolicial Puerto Montt
+1986-12-31,Cabo 1ro.,Ovidio de la Cruz Paredes Salgado,30a. Com. R.P.
+1986-11-28,Teniente,Jaime Luis Saenzneira ,2a. Com. Talagante
+1986-11-12,Cabo 2do.,Luis Humberto Serey Abarca,3a. Com. Limache
+1986-11-06,Cabo 2do.,Manuel Antonio Martínez Cavieres,30a. Com. R.P.
+1986-09-07,Cabo 2do.,Pablo Arturo Silva Pizarro,Gpo. Guardia Presidencial
+1986-08-26,Cabo 1ro.,Juan Manuel Tabilo Rojas,Dpto. Drogas O.S.7 PM
+1986-08-26,Teniente,Mario Alejandro Donati Pino ,"Subdirección Actividades Policiales Especiales, Departamento O.S.7."
+1986-06-25,Cabo 2do.,José Jacinto Contreras Seguel,1a. Com. Valdivia
+1986-05-27,Sargento 2do.,Orlando de los Ángeles Alarcón Pérez,7a. Com. FF.EE. Valparaíso
+1986-05-26,Carabinero,Mario Cesar Olave Ortiz,3a. Com. Norte Valparaíso
+1986-04-29,Cabo 1ro.,Eduardo Moisés Gutiérrez Zúñiga,Pref. Valparaíso
+1986-04-28,Carabinero,Miguel Antonio Vásquez Tobar,10a. Com. La Cisterna
+1986-03-31,Carabinero,Álvaro Eduardo Alarcón Figueroa,10a. Com. La Cisterna
+1986-03-06,Carabinero,Héctor Fernando Flores Villablanca,18a. Com. Ñuñoa
+1986-02-26,Teniente,Alfonso Mauricio Rivera López ,Prefectura Santiago Sur
+1986-02-17,Carabinero,Dante Arturo Martínez Ogaz,3a. Com. Limache
+1986-02-17,Cabo 1ro.,Luis Antonio Cortés Bravo,3a. Com. Limache
+1986-02-11,Sargento 2do.,Luis Hernán Rival Valdés,28a. Com. FF.EE.
+1986-02-03,Teniente,Claudio Alejandro Salas Reginato,Prefectura Aeropolicial
+1986-02-03,Capitán,Romualdo Luis Valdés San Cristóbal ,Prefectura Aeropolicial
+1984-07-27,Subteniente,Julio Alberto Allende Ovalle,26a. Com. Pudahuel
+1983-11-11,Mayor,Sergio Anisal González Gutiérrez ,2a. Com. Pozo Almonte.
+1982-02-06,Capitán,Bernardo Manuel Díaz vieira ,Subcom. Aeropolicial
+1981-11-27,Teniente,Renato Alcibiades Salinas Carrasco,4a. Com. Nueva Imperial
+1981-09-04,Capitán,Manuel Patricio Cantarero Aparicio,2a. Com. Talcahuano
+1981-02-10,Teniente,Pedro Nicolas González Correa,2a. Com. Pozo al Monte
+1980-09-08,Capitán,Carlos Millar Moretti,1a. Com. Aeropolicial
+1980-03-01,Teniente,Luis Eugenio Solorza Bustos,23a. Com. talagante
+1979-12-02,Mayor,Mario Ormeno Valderas ,lnstituto Superior
+1979-06-11,Capitán,Luis Fernando Uldarico Santos Orellana,1a. Com. Aeropolicial
+1979-06-11,Capitán,Héctor Adolfo Yianatos Martinez,Subcom. de Helicopteros
+1979-05-25,Capitán,Rene Marcelo Valle Ponce ,Hospital de Carabineros
+1979-01-23,Capitán,Roberto Alfonso Blanco Valenzuela,26a. Com. Lo Barnechea
+1979-01-11,Subteniente,Gabriel Horacio Vilches Quiroz ,11a. Com. Santiago
+1978-11-05,Carabinero,Jorge Waldo cabello Orrego,1a. Com. San Javier
+1978-09-20,Subteniente,Luis Fernando Oliva Parra,4a. Com. RP y Tránsito
+1978-05-13,Oficial 2o.,Tomas Antonio González Alarcón,Prefectura Talca
+1978-05-13,Teniente,Arístides Tobías Guzmán Rosales,2a. Com. Lebu
+1977-02-18,Mayor (J),Patricia Emma Lucrecia Mcpherson Cisternas,Depto. Defensoría Jurídica
+1976-11-20,Mayor,Raúl Antonio Arellano Castillo,Pref. San Antonio
+1976-11-20,Mayor,Raúl Antonio Arellano Castillo ,Pref. San Antonio
+1976-04-18,Mayor,Tarcicio Osvaldo Valentín Valderrama Correa,4a. Com. Illapel
+1975-01-16,Cabo 2do.,Santos Florin López Plaza,3a. Com. Ovalle
+1975-01-09,Cabo 1ro.,José Segundo Maldonado Martínez,2a. Com. Temuco
+1974-12-19,Carabinero,Néstor Emilio Toro Ulloa,7a. Com. Santiago
+1974-12-06,Suboficial Mayor,Samuel Antonio Vergara Vásquez,2a. Com. Putre
+1974-12-06,Cabo 1ro.,Oscar Samuel Contreras Torres,2a. Com. Putre
+1974-11-28,Sargento 1ro.,Raúl Gilberto Celedón Hernández,1a. Com. Viña Del Mar
+1974-11-19,Cabo 1ro.,Zenobio Ubilla Sotomayor,2a. Com. Temuco
+1974-10-17,Cabo 1ro.,Hugo Florentino Monroy Espinoza,1a. Com. San Carlos
+1974-10-17,Cabo 1ro.,Raúl Demetrio Sepúlveda Grandon,1a. Com. San Carlos
+1974-10-13,Cabo 1ro.,Juan Ernesto Leiva Landaeta,3a. Com. Parral
+1974-09-18,Escribiente 2do.,Francisco Adrián Meza Bravo,4a. Com. Talca
+1974-09-10,Cabo 2do.,Luis Cáceres Martínez,1a. Com. Calama
+1974-08-23,Cabo 1ro.,Juan Belarmino Barra Avilés,1a. Com. Rancagua
+1974-08-18,Capitán,Eduardo Segundo Jaramillo Martínez,1a. Sección Transoprte
+1974-08-08,Sargento 1ro.,Dagoberto Antonio Cereceda Ramírez,4a. Com. Río Bueno
+1974-08-06,Cabo,Luis Augusto Gutiérrez Flores,6a. Com. Santiago
+1974-06-19,Cabo 1ro.,Miguel González González,24a. Com. Central
+1974-06-09,Profesor,José Hernán Espinoza Carrasco,Escuela de Carabineros
+1974-05-14,Sargento 2do.,Sergio Edgardo López Aedo,2a. Com. FF.EE.
+1974-04-20,Sargento 2do.,Luis Alberto Michel Poza,1a. Com. Angol
+1974-04-12,Suboficial,José Antonio Maldonado Roa,2a. Com. Puente Alto
+1974-03-06,Capitán,Sergio Roberto Panizza Ambusto,Sección Policia Forestal
+1974-02-28,Cabo,Pedro Segundo Sepúlveda,3a. Com. Parral
+1974-01-28,General,Luis Alberto Valdivia Román,Depto. De Bienestar
+1974-01-28,Mayor,Humberto Meneses Larrondo,1a. Com. Aeropolicial
+1974-01-04,Cabo,Ramón Antonio Castillo Concha,2a. Com. Serv. Especiales
+1973-12-19,Cabo,Gustavo Juan Barrionuevo Cáceres,4a. Com. La Florida
+1973-12-11,Carabinero,Antonio Villalobos Vargas,5a. Com. Panguipulli
+1973-11-29,Cabo,Bilvio Ladin Basso Basso,1a. Com. Rancagua 
+1973-11-09,Mayor,José Héctor Dávila Rodríguez,4a. Com. Antofagasta
+1973-10-07,Carabinero,Francisco Édison González Arévalo,13a. Com. Ñuñoa
+1973-09-19,Cabo 1ro.,Orlando del Carmen Espinoza Faúndez,4a. Com. Talca
+1973-09-15,Cabo 1ro.,Robinson de Jesús Rojas Villanueva,2a. Com. Putre
+1973-09-14,Sargento 2do.,Juan Segundo Beroíza Carrasco,Subcom. Servicios Especiales
+1973-09-14,Carabinero,Esteban Manuel Cifuentes Cifuentes,12a. Com. San Miguel
+1973-09-14,Carabinero,Fabriciano Nolberto González Urzúa,1er. Esc. Alumnos ESUCAR
+1973-09-12,Carabinero,Pedro Ángel Cariaga Mateluna,5a. Com. R.P. Y Tranito
+1973-09-11,Suboficial,José Humberto Wetling Wetling,12a. Com. San Miguel
+1973-09-11,Vice-Sargento 1ro.,Anselmo Aguayo Bustos,6a. Com. San Bernardo
+1973-09-11,Carabinero,Raúl Arturo Lucero Ayala,22a. Com. La Cisterna
+1973-09-11,Carabinero,Martín Segundo Vega Antequera,22a. Com. La Cisterna
+1973-09-11,Carabinero,Mario Barriga Arriagada,15a. Com. Transito
+1973-09-11,Carabinero,José Artidoro Apablaza Brevis,10a. Com. Quinta Normal
+1973-09-11,Carabinero,José Maldonado Inostroza,9a. Com. Santigo
+1973-09-11,Carabinero,Juan Leopoldo Herrera Urrutia,9a. Com. Santigo
+1973-09-11,Tte. Coronel,Osvaldo Mario Muñoz Carrasco,4a. Com. Antofagasta
+1973-09-11,Teniente,Ramón Ángel Jiménez Cadieux,21a. Com. José María Caro
+1973-07-30,Sargento 2do.,Leónidas Calisto Pérez Alderete,2a. Com. Castro
+1973-06-29,Carabinero,Héctor Manuel Silva Cuevas,1a. Com. Santiago
+1973-05-07,Vice-Sargento 1ro.,Juan Antonio Segundo Díaz Vargas,1a. Com. Valdivia
+1973-04-28,Carabinero,Abel Hermógenes Moncada Cortes,4a. Com. Río Bueno
+1973-03-12,Vice-Sargento 1ro.,Santiago Álvaro Gómez Sotomayor,3a. Com. Calama
+1973-03-02,Carabinero,Salvador del Carmen Araya Lucero,5a. Com. R.P.
+1973-01-04,Carabinero,Benjamin Belfor Alderete Oyarzún,3a. Com. Achao
+1972-11-19,Carabinero,Marcos Yévenes Molina,15a. Com. Tránsito
+1972-11-13,Carabinero,Alfredo Erasmo Rozas Bugueño,3a. Com. Vallenar
+1972-10-20,Carabinero,Jose Manuel Constand Rodriguez,1a. Com. Arauco
+1972-10-14,Cabo,Luis Nonato Corales Ponce,Escuela De Carabineros
+1972-10-06,Suboficial Mayor,Victor Ricardo Duque Martínez,3a. Com. Puerto
+1972-09-22,Cabo,Waldomiro Muenas,2a. Com. Servicios Especiales
+1972-09-15,Cabo,Luis Alberto Avila Cisterna,2a. Com. San Felipe
+1972-08-30,Cabo,Exequiel Aroca Cuevas,10a. Com. FF. EE.
+1972-08-28,Cabo,Ramon Enrique Reyes Arancibia,3a. Com. Limache
+1972-07-27,Cabo,Osvaldo Albornoz Espinoza,12a. Com. San Miguel
+1972-07-13,Carabinero,Victor Antonio Gonzalez Alfaro,Escuela De Carabineros
+1972-06-19,Carabinero,Julio Ismael Michea Castillo,3a. Com. Limache
+1972-05-25,Cabo,José Enrique Higuera,6a. Com. Almendral
+1972-05-21,Sargento 2do.,Julio Cortés Orozco,5a. Com. Iquique U
+1972-05-16,Carabinero,José Ramon Correa Pino,5a. Com. Concepción
+1972-05-06,Cabo,Luis Arias Vasconcello,Dpto. Adquis. Y Abastecimiento L.2.
+1972-02-19,Sargento 2do.,Jesús Manuel Maraboli Aracena,1a. Com. Arica.
+1972-02-09,Carabinero,Gastón Jara Rivera,5a. Com. Concepción
+1972-01-22,Cabo,Jorge Fernando Orellana San Martin,Dpto. Pol. Menores PM.
+1971-12-30,Sargento 2do.,Manuel Pérez Contreras,6a. Com. Loncoche.
+1971-09-23,Cabo,Fernando Omar Claramunt Cid,1a. Com. Los Ángeles
+1971-09-11,Carabinero,José Orlando Monje Pérez,2a. Com. Talcahuano
+1971-09-06,Carabinero,Luis Segundo Araya Olmedo,Escuela De Suboficiales
+1971-07-31,Carabinero,Miguel Segundo Cáceres Pizarro,3a. Com. Limache
+1971-06-27,Cabo,José Arnoldo Bilbao Zech,10a. Com. FF. EE.
+1971-06-17,Cabo,José Cartes Diaz,4a. Com. Concepción.
+1971-05-30,Cabo,Roberto Enrique Aranda Leiva,3a. Com. Talca (U).
+1971-05-24,Carabinero,Tomas Arnaldo Gutiérrez Urrutia,17a. Com. R.P.
+1971-05-21,Cabo Chofer,Sergio Antonio Suazo Jauregui,Escuela De Carabineros
+1971-05-21,Cabo,Sergio Antonio Suazo Jauregui,Escuela de Carabineros
+1971-04-12,Sargento 2do.,Leonel Ire Molina Lezana,Relaciones Públicas
+1971-03-20,Cabo,Genaro Juan Cruz Viguera,5a. Com. Pitrufquén
+1971-03-07,Sargento 2do.,Jenaro Leyton Sandoval,2a. Com. María Elena
+1971-02-16,Cabo,Gabriel Oyarzun Oyarzún,2a. Com. Castro
+1971-01-01,Carabinero,José Hernández Castillo,22a. Com. La Cisterna
+1970-12-23,Carabinero,Jorge Dionisio Campos Llanos,4a. Com. Talca
+1970-09-21,Cabo,Armando Aurelio Cofre López,13a. Com. Ñuñoa
+1970-09-15,Cabo,Ladislao Carrasco Pérez,2a. Com. Pozo al Monte
+1970-09-01,Vice-Sargento 1ro.,Fructuoso Segundo Gómez Ascencio,6a. Com. Loncoche
+1970-08-29,Vice-Sargento 1ro.,Orlando Raúl Cáceres Díaz,Escuela de Carabineros
+1970-08-20,Carabinero,José Eduardo Rubilar Sánchez,6a. Com. Santiago
+1970-08-11,Cabo,Luis Fuentes Pineda,22a. Com. La Cisterna
+1970-08-08,Carabinero,Edmundo Figueroa,4a. Com. Rio Bueno
+1970-08-04,Teniente,Mauricio Herbillón Martínez,1a. Com. Tome
+1970-08-03,Carabinero,Manuel Andrés Díaz Arellano,1a. Com. Tomé
+1970-07-11,Sargento 1ro.,Raúl Rodríguez Jhonson,3a. Com. Teno
+1970-06-29,Vice-Sargento 1ro.,Benito del Rosario Carvajal Rojas,1a. Com. La Serena
+1970-06-17,Carabinero,Domingo Enrique Lamas Arenas,1a. Com. La Serena
+1970-06-03,Carabinero,Nelson Martínez Leiva,2a. Com. Graneros
+1970-05-31,Mayor,Oscar Rodolfo Urbina Guerrero,Pref. Valdivia
+1970-05-22,Escribiente 1ro.,Héctor  Ferrada Bastias,Direcc. Personal
+1970-05-11,Cabo,Jorge Luis Huerta Alarcón,3a. Com. Sewell
+1970-04-12,Carabinero,Jesús Aladino Henríquez Sanzana,22a. Com. La Cisterna
+1970-02-18,Carabinero,Arnoldo Segundo Henríquez Bahamondez,3a. Com. Osorno
+1970-02-06,Cabo,Luis Antidoro  Meriño Ferreira,Escuela De Suboficiales
+1970-01-09,Carabinero,Esteban Segundo Santander Matamala,1a. Com. Rancagua
+1970-01-09,Carabinero,José Maximiliano Guerrero Rodríguez,22a. Com. La Cisterna
+1970-01-04,Sargento 2do.,Luis Arturo Martínez Lorca,4a. Com. Rengo
+1969-12-31,Carabinero,Ivan del Tránsito Sanhueza García,5a. Com. Concepción
+1969-11-15,Sargento 1ro.,Maximiliano Humberto Venegas Farias,4a. Com. Talca
+1969-10-30,Cabo,Raúl Antonio Gutiérrez Aravena,Gpo. Móvil
+1969-10-21,Carabinero,Manuel Osvaldo Leiva León,1a. Com. Renca
+1969-09-29,Carabinero Chofer,Domingo Patrocinio Farias Carmona,Pref. Antofagasta
+1969-09-09,Cabo,Eduardo López Olivares,1a. Com. La Ligua
+1969-08-14,Cabo,Hernán Eulogio López Torres,6a. Com. Loncoche
+1969-07-11,Carabinero,Eugenio Alejandro Becerra Cañete,6a. Com. Santiago Central
+1969-06-08,Carabinero,German Eduardo Acuña,13a. Com. Santiago Sur
+1969-06-07,Cabo,Fernando Augusto Vásquez,Tcia. Carreteras Logotoma
+1969-06-05,Carabinero,Hernán Álvarez águila,2a. Com. Castro
+1969-04-12,Sargento 2do.,Merito Humberto Espinoza Reyes,2a. Com. Puerto Montt
+1969-02-23,Teniente,Samuel Paschuan Miranda ,Gpo. Móvil
+1969-02-05,Cabo,Luis Hernán Becerra Gajardo,2a. Com. Santa Cruz
+1969-01-19,Cabo E.G.,Jorge Urra Venegas,3a. Com. Chile Chico
+1968-12-19,Carabinero,Isaac Reyes Núñez,10a. Com. Quinta Normal
+1968-12-14,Carabinero,Juan Ramón Toledo Espinoza,6a. Com. San Bernardo
+1968-08-11,Cabo,José Heriberto Mera Espinoza,3a. Com. Temuco
+1968-06-25,Carabinero,Sergio Alfredo Pinochet Flores,4a. Com. Quillota
+1968-06-25,Carabinero,Eric Ricardo Vega Vega,4a. Com. Quillota
+1968-05-27,Teniente,Mario Arnaldo  Andía Perea ,Digcar
+1965-11-06,Teniente,Hernán Francisco Merino Correa ,3a. Com. Chile Chico
+1965-06-18,Tte. Coronel,José Lorenzo Sepúlveda Quintana ,Pref. OHiggins
+1965-03-06,Teniente,Adolfo Bendel Maurelia,Brigada Aeropolicial
+1964-07-24,Teniente,Manuel Victorino Arias Quintana ,Brigada Aeropoliclal
+1961-11-24,Subteniente,Salvador Moncada Elordi ,4a. Com Florida
+1961-10-14,Mayor,Luis Retamal Irribarra,2a. Com. Talcahuano
+1961-10-14,Capitán,Luis Llanos López,2a. Com. Talcahuano
+1961-06-24,Mayor,Luis Salazar Quevedo,1a. Com. Renca
+1960-11-05,Teniente,José Miguel Guerrero Henríquez ,19a. Com. Móvil
+1960-10-14,Subteniente,José Burgos Acuña,6a. Com. Antofagasta
+1960-02-21,Cabo,Genaro De Las Mercedes González Sanhueza,3a. Com. Cauquenes
+1960-01-30,Carabinero,Renaldi Álvarez Contreras,7a. Com. OHiggins
+1959-12-07,Carabinero,Francisco Octavio Cruz González,1a. Com. Valdivia
+1959-10-17,Carabinero,Fidel Del Carmen Ramírez Abarca,3a. Com. Sewell
+1959-10-04,Sargento 2do.,José Aníbal Escobar Monroy,4a. Com. Yungay
+1959-09-26,Capitán,Leopoldo Rojas Vásquez,6a. Com. Antofagasta
+1959-06-24,Carabinero,Mario Hernán Becker Díaz,20a. Com. Puente Alto
+1959-06-24,Carabinero,Jaime del Carmen Barahona,20a. Com. Puente Alto
+1959-06-22,Carabinero,Sergio Alarcón,1er. Esc. Alumnos Esucar
+1959-06-19,Carabinero,Hugo Hernán Fuentes,2a. Com. Lebu
+1959-05-26,Carabinero,Mario Carrillo,3a. Com. Calama
+1959-02-25,Carabinero,Homero Fuentes Badilla,6a. Com. Antofagasta
+1959-01-28,Teniente,Jorge Bórquez Gutiérrez,13a Com. Ñuñoa
+1959-01-01,Cabo,Luis Artemio Castillo Álvarez,1a. Com. Ancud
+1958-12-12,Carabinero,Héctor Emeterio Caroca Rodríguez,13a. Com. Ñuñoa
+1958-10-10,Carabinero,Hernán Alberto Vergara Ramírez,Reten Malloco
+1958-10-02,Carabinero,Rene Sepúlveda Parraguez,1a. Com. Laja
+1958-10-01,Carabinero,Ramón Salgado Salgado,1a. Com. Angol
+1958-07-07,Carabinero,Alejandro Esquivel Viveros,7a. Com. Coronel
+1958-06-24,Carabinero,Nolberto Delgado Arriagada,2a. Com. Arica
+1958-04-29,Carabinero,Antonio Bulnes Cayuqueo,3a. Com. Temuco
+1958-04-11,Cabo,Juan González Miranda,2a. Com. Aysen
+1958-04-11,Sargento 2do.,Dolorindo S. Bernier Barría,2a. Com. Puerto Montt
+1958-02-06,Carabinero,Gabriel Idett Vásquez,Pref. Concepción
+1957-12-28,Cabo,José Martínez Erices,1er. Esc. Alumnos Esucar
+1957-12-22,Carabinero,Pablo Huenchunao Lincuñir,7a. Com. O Higgins
+1957-12-04,Sargento 2do.,Silverio Bustamante Poblete,1a. Com. La Serena
+1957-11-20,Cabo,Juan Bautista Belmar de la Fuente,3a. Com. Chile Chico
+1957-11-16,Cabo,Pedro Juan Valenzuela Riquelme,6a. Com. Loncoche
+1957-11-16,Cabo,Flaminio Leal Cofre,6a. Com. Loncoche
+1957-10-25,Carabinero,Juan Silva Ojeda,3a. Com. La Unión
+1957-10-09,Cabo,Juan Cofre,2a. Com. Chanco
+1957-10-06,Carabinero,José Gonzalo Concha Quiroz,1a. Com. Loncomilla
+1957-09-23,Sargento 2do.,José del Carmen Ortega Castro,12a. Com. Quillota
+1957-07-26,Carabinero,Arturo del Rosario Verdejo Elgueta,11a. Com. Limache
+1957-07-10,Carabinero,José Olegario Torres,1a. Com. Magallanes
+1957-05-13,Cabo,Nicomedes Alberto Espinace Contreras,2a. Com. Linares
+1957-03-31,Sargento 1ro.,Emiliano Zúñiga Ibacache,2a. Com. Puente Alto
+1957-03-29,Carabinero,Sergio Rene Ojeda Ampuero,1a. Com. Osorno
+1957-02-11,Sargento 2do.,Luis Barraza Pedreros,2a.Com. Aduana
+1957-01-27,Carabinero,Rene Caucaman Martínez,1a. Com. Valdivia
+1957-01-22,Carabinero,Carlos Oscar Pérez Osses,1a. Com. Renca
+1957-01-06,Cabo,Mario Heriberto Osses Reyes,3a. Com. Talca
+1956-11-19,Sargento 2do.,Héctor Eladio Uribe Soto,1a. Com. Ancúd
+1956-10-14,Cabo,José Huenteo Huenteo,5a. Com. Curacautín
+1956-09-08,Carabinero,Jaime Alejandro Cabrera Vivar,17a. Com. R.P.
+1956-08-15,Carabinero,Marcos Aurelio Rodríguez Sandoval,2a. Com. Chillán
+1956-08-12,Carabinero,Evaristo Ruiz Gutiérrez,2a. Com. Talcahuano
+1956-08-02,Cabo,José Temístocles Fuentes Totin,2a. Com. Mulchen
+1956-07-24,Carabinero,José Manuel Larrondo Polanco,4a. Com. Illapel
+1956-07-12,Carabinero,Reinaldo Segundo Retamal Sazo,2a. Com. Linares
+1953-04-03,Teniente,Julio Gallardo Donoso ,11a. Com. Santiago
+1948-12-05,Teniente,Jorge Sergio Barrientos Serre,15a. Com Santigo Oriente
