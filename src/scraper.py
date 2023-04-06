@@ -12,7 +12,7 @@ import datetime
 
 more = True
 
-name = 'output/data.csv'
+name_csv = '../output/data.csv'
 
 more_pages = True
 page = 1
@@ -49,7 +49,6 @@ while more_pages == True:
 		year = int(date[4:8])
 		
 		date = datetime.datetime(year, month, day)
-		print(grade, name, date, station)
 		new_row = {
 		"date": date,
 		"grade": grade,
@@ -58,10 +57,9 @@ while more_pages == True:
 		
 		df = pd.concat([df, pd.DataFrame([new_row])], axis=0, ignore_index=True)
 	
-
 	if profiles == []:
 		more_pages = False
 	page += 1
 
 
-df.to_csv(name, index=False)
+df.to_csv(name_csv, index=False)
